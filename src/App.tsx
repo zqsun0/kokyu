@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import FirstPage from './components/FirstPage';
+import './css/animations.css';
+import './css/default.css';
+import './css/common.css';
+import './css/responsive.css';
+import SecondPage from './components/secondPage/SecondPage';
+// import AOS from 'aos';
 function App() {
+  // AOS.init();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <FirstPage/>
+      <SecondPage/>
     </div>
   );
 }

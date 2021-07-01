@@ -1,6 +1,6 @@
 import React from 'react';
 
-const SecondPageP1 = () => {
+const P1 = () => {
   return (
     <div className="p1">
       <div className="comment com1" data-aos="zoom-in" data-aos-delay="400">
@@ -46,4 +46,4 @@ const SecondPageP1 = () => {
   );
 };
 
-export default SecondPageP1;
+export default P1;

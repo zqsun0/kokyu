@@ -101,7 +101,7 @@
     background: none;
   }
   .p1 .com1 p {
-    /*background-image: url(../images/text/p1-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p1-1.png);
     background-size: 56px auto;
     width: 102px;
     height: 180px;
@@ -110,7 +110,7 @@
     left: 68px;
   }
   .p1 .com2 p {
-    /*background-image: url(../images/text/p1-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p1-2.png);
     background-size: 48px auto;
     width: 103px;
     height: 233px;
@@ -119,7 +119,7 @@
     left: 20px;
   }
   .p1 .com3 p {
-    /*background-image: url(../images/text/p1-3.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p1-3.png);
     background-size: 18px auto;
     width: 68px;
     height: 184px;
@@ -128,7 +128,7 @@
     right: 180px;
   }
   .p1 .com4 p {
-    /*background-image: url("../images/text/p1-4.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p1-4.png");
     background-size: 123px 172px;
     overflow: hidden;
     width: 123px;
@@ -146,13 +146,13 @@
     top: 262px;
   }
   .p2 .com1 p {
-    /*background-image: url(../images/text/p2-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p2-1.png);
     background-size: 19px 191px;
     width: 72px;
     height: 243px;
   }
   .p2 .com2 p {
-    /*background-image: url("../images/text/p2-2.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p2-2.png");
     background-size: 177px 250px;
     overflow: hidden;
     width: 177px;
@@ -163,7 +163,7 @@
     right: auto;
   }
   .p3 .com1 p {
-    /*background-image: url(../images/text/p3-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p3-1.png);
     background-size: 57px 176px;
     width: 57px;
     height: 176px;
@@ -173,7 +173,7 @@
     height: auto;
   }
   .p3 .com2 p {
-    /*background-image: url("../images/text/p3-2.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p3-2.png");
     background-size: 236px auto;
     overflow: hidden;
     width: 236px;
@@ -184,7 +184,7 @@
     right: auto;
   }
   .p3 .com3 p {
-    /*background-image: url("../images/text/p3-3.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p3-3.png");
     background-size: 251px 302px;
     overflow: hidden;
     width: 251px;
@@ -195,13 +195,13 @@
     right: auto;
   }
   .p4 .com1 p {
-    /*background-image: url(../images/text/p4-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p4-1.png);
     background-size: 26px 30px;
     width: 72px;
     height: 98px;
   }
   .p4 .com2 p {
-    /*background-image: url("../images/text/p4-2.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p4-2.png");
     background-size: 245px 341px;
     overflow: hidden;
     width: 245px;
@@ -212,7 +212,7 @@
     right: auto;
   }
   .p4 .com3 p {
-    /*background-image: url("../images/text/p4-3.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p4-3.png");
     background-size: 277px 299px;
     overflow: hidden;
     width: 277px;
@@ -236,7 +236,7 @@
     width: 100%;
   }
   .p5 {
-    /*background-image: url(../images/responsive/r_p5_1.jpg);*/
+    background-image: url(https://yogakokyu.com/images/responsive/r_p5_1.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
@@ -245,7 +245,7 @@
     padding: 0;
   }
   .p6 .com1t p {
-    /*background-image: url(../images/text/p6-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p6-1.png);
     background-size: 78px auto;
     width: 142px;
     height: 56px;
@@ -255,7 +255,7 @@
     height: 148px;
   }
   .p6 .com2 p {
-    /*background-image: url("../images/text/p6-2.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p6-2.png");
     background-size: 83px 148px;
     overflow: hidden;
     width: 83px;
@@ -270,7 +270,7 @@
     height: auto;
   }
   .p6 .com3 p {
-    /*background-image: url("../images/text/p6-3.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p6-3.png");
     background-size: 310px auto;
     overflow: hidden;
     width: 310px;
@@ -288,7 +288,7 @@
     height: 485px;
   }
   .p7 .com1 p {
-    /*background-image: url(../images/text/p7-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p7-1.png);
     background-size: 361px 485px;
     width: 361px;
     height: 485px;
@@ -298,13 +298,13 @@
     right: auto;
   }
   .p7 .com3 p {
-    /*background-image: url(../images/text/p7-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p7-2.png);
     background-size: 30px 100px;
     width: 72px;
     height: 182px;
   }
   .p7 .com4 p {
-    /*background-image: url("../images/text/p7-3.png");*/
+    background-image: url("https://yogakokyu.com/images/text/p7-3.png");
     background-size: 220px 265px;
     overflow: hidden;
     width: 220px;
@@ -331,7 +331,7 @@
     margin: 10px;
   }
   .p9 .com1 p {
-    /*background-image: url(../images/text/p9-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p9-1.png);
     background-size: 304px 353px;
     width: 304px;
     height: 353px;
@@ -350,7 +350,7 @@
     margin: 0;
   }
   .p9 .com3 p {
-    /*background-image: url(../images/text/p9-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p9-2.png);
     background-size: 286px 302px;
     width: 286px;
     height: 302px;
@@ -366,7 +366,7 @@
     margin-right: -385px;
   }
   .p10 .com1 p {
-    /*background-image: url(../images/text/p10-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p10-1.png);
     background-size: 190px 272px;
     width: 190px;
     height: 272px;
@@ -390,7 +390,7 @@
     left: 10px;
   }
   .p11 .com1 p {
-    /*background-image: url(../images/text/p11-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p11-1.png);
     background-size: 310px 306px;
     width: 310px;
     height: 306px;
@@ -404,7 +404,7 @@
   }
   .p12 .skew .skewInn .item2 {
     top: 20px;
-    margin-right: 0;
+    margin-right: 0px;
   }
   .p12 .skew .skewInn .item3 {
     right: 50px;
@@ -416,7 +416,7 @@
     height: 420px;
   }
   .p13 .com1 p {
-    /*background-image: url(../images/text/p13-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p13-2.png);
     background-size: 450px 420px;
     width: 450px;
     height: 420px;
@@ -434,7 +434,7 @@
     left: 39px;
   }
   .p13 .com3 p {
-    /*background-image: url(../images/text/p13-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p13-1.png);
     background-size: 190px 304px;
     width: 190px;
     height: 304px;
@@ -461,7 +461,7 @@
     bottom: 120px;
   }
   .p14 .com1 p {
-    /*background-image: url(../images/text/p14-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p14-1.png);
     background-size: 230px 270px;
     width: 230px;
     height: 270px;
@@ -482,7 +482,7 @@
     bottom: 135px;
   }
   .p14 .com2 p {
-    /*background-image: url(../images/text/p14-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p14-2.png);
     background-size: 199px 274px;
     width: 199px;
     height: 274px;
@@ -497,7 +497,7 @@
     left: 30px;
   }
   .p15 .com1 p {
-    /*background-image: url(../images/text/p15-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p15-1.png);
     background-size: 216px 294px;
     width: 216px;
     height: 294px;
@@ -529,7 +529,7 @@
     top: 40px;
   }
   .p16 .com1 p {
-    /*background-image: url(../images/text/p16-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p16-1.png);
     background-size: 270px 396px;
     width: 270px;
     height: 396px;
@@ -558,7 +558,7 @@
     bottom: 0;
   }
   .p16 .com3 p {
-    /*background-image: url(../images/text/p16-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p16-2.png);
     background-size: 250px 358px;
     width: 250px;
     height: 358px;
@@ -581,7 +581,7 @@
     right: 10px;
   }
   .p17 .com1 p {
-    /*background-image: url(../images/text/p17-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p17-1.png);
     background-size: 236px 422px;
     width: 236px;
     height: 422px;
@@ -595,7 +595,7 @@
     height: 433px;
   }
   .p17 .com3 p {
-    /*background-image: url(../images/text/p17-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p17-2.png);
     background-size: 312px 433px;
     width: 312px;
     height: 433px;
@@ -609,7 +609,7 @@
     height: 149px;
   }
   .p17 .com5 p {
-    /*background-image: url(../images/text/p17-3.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p17-3.png);
     background-size: 109px 149px;
     width: 109px;
     height: 149px;
@@ -625,7 +625,7 @@
     right: 10px;
   }
   .p17 .com6 p {
-    /*background-image: url(../images/text/p17-4.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p17-4.png);
     background-size: 265px 425px;
     width: 265px;
     height: 425px;
@@ -639,7 +639,7 @@
     height: 218px;
   }
   .p17 .com8 p {
-    /*background-image: url(../images/text/p17-5.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p17-5.png);
     background-size: 172px 218px;
     width: 172px;
     height: 218px;
@@ -658,7 +658,7 @@
     height: 442px;
   }
   .p18 .com1 p {
-    /*background-image: url(../images/text/p18-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p18-1.png);
     background-size: 263px 442px;
     width: 263px;
     height: 442px;
@@ -676,7 +676,7 @@
     height: 285px;
   }
   .p18 .com3 p {
-    /*background-image: url(../images/text/p18-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p18-2.png);
     background-size: 194px 285px;
     width: 194px;
     height: 285px;
@@ -693,7 +693,7 @@
     height: 302px;
   }
   .p20 .com1 p {
-    /*background-image: url(../images/text/p20-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p20-1.png);
     background-size: 250px 302px;
     width: 250px;
     height: 302px;
@@ -710,7 +710,7 @@
     top: 245px;
   }
   .p20 .com2 p {
-    /*background-image: url(../images/text/p20-2.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p20-2.png);
     background-size: 98px auto;
     width: 98px;
     height: auto;
@@ -726,7 +726,7 @@
     height: 166px;
   }
   .p20 .com3 p {
-    /*background-image: url(../images/text/p20-3.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p20-3.png);
     background-size: 132px 166px;
     width: 132px;
     height: 166px;
@@ -742,7 +742,7 @@
     height: 115px;
   }
   .p20 .com4 p {
-    /*background-image: url(../images/text/p20-4.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p20-4.png);
     background-size: 75px 115px;
     width: 75px;
     height: 115px;
@@ -760,7 +760,7 @@
     margin: 0;
   }
   .p20 .com5 p {
-    /*background-image: url(../images/text/p20-5.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p20-5.png);
     background-size: 195px 426px;
     width: 195px;
     height: 426px;
@@ -795,7 +795,7 @@
     width: 100%;
   }
   .p21 .text1 p {
-    /*background-image: url(../images/text/p21-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p21-1.png);
     background-size: 146px 259px;
     width: 146px;
     height: 259px;
@@ -1571,7 +1571,7 @@
   }
   .p1 .com4 {
     margin-right: -170px;
-    top: 0;
+    top: 0px;
     margin-top: -20px;
   }
   .p1 .item1 {
@@ -2221,7 +2221,7 @@
     width: 290px;
   }
   .p6 {
-    /*background-image: url(../images/p6-back.jpg);*/
+    background-image: url(https://yogakokyu.com/images/p6-back.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -2242,7 +2242,7 @@
     margin-right: -140px;
   }
   .p6 .com1t p {
-    /*background-image: url(../images/text/p6-1.png);*/
+    background-image: url(https://yogakokyu.com/images/text/p6-1.png);
     background-size: 70px auto;
     width: 110px;
     height: 35px;
@@ -2347,7 +2347,7 @@
   .p15 .com1 {
     width: 130px;
     height: 178px;
-    bottom: 0;
+    bottom: 0px;
   }
   .p17 {
     border-top: none;
